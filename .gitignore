@@ -1,0 +1,3 @@
+#excluindo a pasta .bak que será criada automaticamente ao rodar o comando docker compose
+/.bak
+/.vscode
